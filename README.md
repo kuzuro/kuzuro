@@ -1,6 +1,14 @@
-### Hi there 👋
+# 이현우
+
+- 닉네임 : 가루남, kuzuro(쿠즈로, 屑郞)
+- 이메일 : [kuzuro@gmail.com](mailto:kuzuro@gmail.com)
+- 블로그 : [https://kuzuro.blogspot.com](https://kuzuro.blogspot.com)
+- 깃헙 페이지 : [https://kuzuro.github.io](https://kuzuro.github.io) (수정중)
+-----
+2018년부터 개발 시작, 스프링, ASP.NET, WPF 위주의 작업을 하고 있습니다.
 
 <!--
+### Hi there 👋
 **kuzuro/kuzuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
